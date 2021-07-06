@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JSSanchezH
 - 👀 I’m interested in  learning more about programming
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning Node JS and React JS
 
 - 📫 How to reach me, twitter.com/js_sanchezh
 
